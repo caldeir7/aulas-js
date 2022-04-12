@@ -28,12 +28,16 @@ let nota1 = 8;
 let nota2 = 7;
 let media = (nota1 + nota2) / 2;
 
+
 console.log(`Aluno: ${aluno}`);
 console.log(`Notas: ${nota1} e ${nota2}`);
 console.log(`Média: ${media}`); /* tofixed(2) fixando casa decimais em 2 em casos de numero quebrados */
 
 let situacao;
-if(media >= 9){
+let faltas = 20;
+console.log(`Faltas ${faltas}`);
+// && -> operador lógico E Usando quando precisamos avaliar mais de uma condição ao mesmo tempo
+if(media >= 9 && faltas < 15){
     situacao = "Aprovado";
 
 } else{
