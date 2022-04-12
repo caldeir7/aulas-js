@@ -1,3 +1,4 @@
+'use strict'
 console.log("Revisão do JS Senac!"); /* comando para mostrar no console do navegador */
 
 let camiseta = "Suco de Laranja";

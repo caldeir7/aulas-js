@@ -1,3 +1,4 @@
+'use strict'
 /* Estrutura Condicional
 if (se), else(senao), else if (senao se) 
 

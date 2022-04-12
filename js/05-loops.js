@@ -1,3 +1,4 @@
+'use strict'
 /* Estruturas Tradicionais
 (Tem em todas as linguagens)
 

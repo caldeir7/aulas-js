@@ -1,3 +1,4 @@
+'use strict'
 /* ALT SHIFT A
 Comentário de múltiplas
 linhas */

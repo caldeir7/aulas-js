@@ -1,3 +1,4 @@
+'use strict'
 // Estrutura de dados no JavaScript
 
 // ARRay (VETOR) Lista de dados indexados
