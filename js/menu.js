@@ -1,5 +1,5 @@
 function myFunc(){
-    var para = document.getElementById("links-menu");
+    let para = document.getElementById("links-menu");
     para.classList.toggle("aberto");
 }
 
