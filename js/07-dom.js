@@ -1,3 +1,4 @@
+'use strict'
 /* Funções ou Métodos de acesso/seleção ao DOM 
 
 -getElementById() - Obter elemento pelo ID (Apenas 1 Elemento identificado) Seleciona 1 elemento atraavés do id.
