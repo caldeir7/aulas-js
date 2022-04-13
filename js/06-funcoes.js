@@ -80,3 +80,13 @@ const dobra = valor => valor * 2;
 
 console.log( dobra ( 10 )  );
 console.log( dobra ( 150 ) );
+
+let nota1 = 8.5;
+let nota2 = 7.5;
+
+const calculaMedia = (n1, n2) => (n1 + n2) /2;
+console.log(calculaMedia(nota1, nota2));
+
+// Obs: se não tem parâmetros, também precisa usar ()
+
+const linha2 = () => console.log("-------");
