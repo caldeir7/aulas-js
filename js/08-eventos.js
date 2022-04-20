@@ -102,16 +102,7 @@ formulario.addEventListener("submit", function(event){
 
 
 
- let media = (nota1 + nota2) / 2;
-    /* 1) Progame o necessário para determinar se o aluno está aprovado ou reprovado. Critério: media maior/igual a 7 aprovado, caso contrário reprovado */
-    let caso;
-        if (  media >= 7 ) {
-            caso  = "Aprovado"
-        } else {
-            caso = "Reprovado"
-        }
 
-    
     
     
     
